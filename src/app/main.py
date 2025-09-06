@@ -2,7 +2,6 @@ import logging
 import time
 import random
 
-# konfiguracja logowania: konsola + plik
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
